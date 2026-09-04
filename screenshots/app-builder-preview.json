@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Greenlight",
+      "hasCanvas": false,
+      "bodyTextLen": 1789,
+      "bodyTextHash": "2663e6b7f36e8ebee15c7a3ca564a25f6ece50041ac728c9386265f4fe29592d",
+      "bodyTextPrefix": "Greenlight Scan Policies How it works PRE-FLIGHT FOR YOUTUBE Kno",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Greenlight",
+      "hasCanvas": false,
+      "bodyTextLen": 1789,
+      "bodyTextHash": "2663e6b7f36e8ebee15c7a3ca564a25f6ece50041ac728c9386265f4fe29592d",
+      "bodyTextPrefix": "Greenlight Scan Policies How it works PRE-FLIGHT FOR YOUTUBE Kno",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
